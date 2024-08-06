@@ -1,0 +1,4 @@
+Добавить Allure к своему проекту (homework_03 из Introduction_to_Test_Automation);
+Добавить аннотации Allure для формирования отчета;
+Запустить тесты в автоматическом режиме с помощью GitHub Actions;
+Запушить проект в GIT.
